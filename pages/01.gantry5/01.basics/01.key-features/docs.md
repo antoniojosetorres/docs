@@ -1,17 +1,17 @@
 ---
-title: Key Features
+title: Características Claves
 taxonomy:
     category: docs
     tag: [gantry5]
 ---
 
-Gantry 5 is packed full of features created to empower the development of designs into fully functional layouts with the absolute minimum effort and fuss.
+Gantry 5 está repleto de características creadas para potenciar el desarrollo de diseños en diseños totalmente funcionales con el esfuerzo mínimo absoluto y sin grandes complicaciones.
 
 [plugin:youtube](https://www.youtube.com/watch?v=H0RCz-ziJoo)
 
-#### Responsive Layout System
+#### Sistema de Diseño Adaptable (Responsivo)
 
-Gantry 5 uses the **Nucleus** grid system, built from scratch using Flexbox and tied in to the **Layout Manager** to generate classes.
+Gantry 5 usa el sistema de cuadrículas **Nucleus**, construido desde cero usando Flexbox and amarrado en el **Gestor de Diseño** para generar clases.
 
 #### Cross-platform Support
 
