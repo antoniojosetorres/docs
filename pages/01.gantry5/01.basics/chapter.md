@@ -5,11 +5,11 @@ taxonomy:
     tag: [gantry5]
 ---
 
-### Chapter 1
+### Capítulo 1
 
-# Basics
+# Básico
 
-Discover what **Gantry** is all about, the core-concepts behind it, and how to get started with a next-generation framework.
+Descubre todo lo que hace **Gantry**, los conceptos que hay detrás de él y cómo empezar a trabajar con un framework de próxima generación.
 
 * [Key Features](key-features)
 * [System Requirements](system-requirements)
