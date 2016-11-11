@@ -6,7 +6,7 @@ taxonomy:
     tag: gantry5
 ---
 
-### Version 5.0
+### Versión 5.0
 
 # Gantry 5
 
